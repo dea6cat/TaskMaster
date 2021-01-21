@@ -1,10 +1,10 @@
 # get_it_done
 
-This app is mainly for you to track the funtamental things you most do during your day, week or months 
+This app is mainly for tracking  things you most do during your day, week or months, it will be release soon first as a installable APK and later as a full fleshed App on the Playstore. 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
