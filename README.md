@@ -1,6 +1,6 @@
 # get_it_done
 
-This app is mainly for you to track the funtamental things you most do during your day, week of months 
+This app is mainly for you to track the funtamental things you most do during your day, week or months 
 
 ## Getting Started
 
